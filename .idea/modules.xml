@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clustering/Clustering.iml" filepath="$PROJECT_DIR$/Clustering/Clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hopfield_NN/Hopfield_NN.iml" filepath="$PROJECT_DIR$/Hopfield_NN/Hopfield_NN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Markov_Model/Markov_Model.iml" filepath="$PROJECT_DIR$/Markov_Model/Markov_Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/N_Armed_Bandit/N_Armed_Bandit.iml" filepath="$PROJECT_DIR$/N_Armed_Bandit/N_Armed_Bandit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neural_network/Neural_Network.iml" filepath="$PROJECT_DIR$/neural_network/Neural_Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neural_Network_Iris/Neural_Network_Iris.iml" filepath="$PROJECT_DIR$/Neural_Network_Iris/Neural_Network_Iris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q_Leqrning_Algorithm/Q_Leqrning_Algorithm.iml" filepath="$PROJECT_DIR$/Q_Leqrning_Algorithm/Q_Leqrning_Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/artificial_intelligence.iml" filepath="$PROJECT_DIR$/artificial_intelligence.iml" />
+    </modules>
+  </component>
+</project>
